@@ -1,0 +1,9 @@
+[
+    { "id": "1", "name": "정은우", "task": "Front-end" , "age" : 24},
+    { "id": "2", "name": "김도형", "task": "Back-end", "age" : 30 },
+    { "id": "3", "name": "신현진", "task": "Front-end", "age" : 28 },
+    { "id": "4", "name": "나범수", "task": "Front-end", "age" : 26 },
+    { "id": "5", "name": "장유빈", "task": "Back-end", "age" : 26 },
+    { "id": "6", "name": "김형균", "task": "Back-end", "age" : 25 }
+]
+
